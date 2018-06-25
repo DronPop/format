@@ -17,8 +17,8 @@ std::string result = formated("int = %, double = %, std::string = %, const char 
 1. cd format/Example
 1. mkdir build
 1. cd build
-1. cmake .. -G "<IDA>"
-1. open <SolutionName>
+1. cmake .. -G "IDAName"
+1. open SolutionName
 # Features
  # Advantages
  * Strongly typed
