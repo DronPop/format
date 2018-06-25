@@ -1,10 +1,14 @@
 # format
+* Introduction
 * Getting Started
   * Simple example using format
   * Basic Installation
 * Features
   * Advantages
   * Disadvantages
+# Introduction
+This project is analogous to QString :: arg and other similar means of string interpolation.
+The key is the use of using C++ Parameter pack.
 # Getting Started
 # Simple example using format
 ```
