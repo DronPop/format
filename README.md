@@ -7,9 +7,11 @@
   * Disadvantages
 # Getting Started
 # Simple example using format
+```
 std::string result = formated("int = %, double = %, std::string = %, const char * = %, bool = %",
                                      1,          3.14,            str,              "char*",  true);
 //string = "int = 1, double = 3.140000, std::string = testString, const char * = char*, bool = 1".
+```
 # Basic Installation
 1. git clone https://github.com/DronPop/format.git
 1. cd format/Example
